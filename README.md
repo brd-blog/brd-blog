@@ -6,6 +6,11 @@ My name is Francisco Nunez I'm a full stack web developer in `python`, `Java` an
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+### Visitor Count
+<img src="https://profile-counter.glitch.me/brd-blog/count.svg" />
+
+[![Francisc's GitHub stats](https://github-readme-stats.vercel.app/api?username=brd-blog)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Communication
 
 <div align="center">
