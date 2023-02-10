@@ -88,6 +88,8 @@ My name is Francisco Nunez I'm a full stack web developer in `python`, `Java` an
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/66331114/218117896-827ec41a-c4fa-4fa4-97a3-29ae53e69618.png" alt="laravel" title="laravel"/></code>
+	
 </div>  
 
 ## 📱 Mobile Dev
